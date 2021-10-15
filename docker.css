@@ -13,7 +13,7 @@ body {
 .header-docker {
   background-image: url('https://stephen-1973.github.io/staticImages/docker.jpeg');
   background-position: center;
-  height: 40vw;
+  height: 40vh;
   text-align: center;
   display: flex;
   flex-direction: column;
