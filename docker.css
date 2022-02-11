@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
-html {
-  font-size: 62.5%;
-}
-
 body {
   font-family: 'Poppins';
   word-spacing: 0.2rem;
